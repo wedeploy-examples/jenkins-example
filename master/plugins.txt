@@ -1,1 +1,7 @@
+ansicolor
+blueocean
+embeddable-build-status
+greenballs
+jacoco
 swarm:latest
+workflow-aggregator
