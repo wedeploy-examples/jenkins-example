@@ -1,0 +1,10 @@
+{
+    "id": "slave",
+    "env": {
+        "MASTER": "http://master:8080",
+        "USERNAME": "admin",
+        "PASSWORD": "passw0rd",
+        "EXECUTORS": "2"
+    },
+    "dependencies": ["master"]
+}

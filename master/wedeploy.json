@@ -1,6 +1,5 @@
 {
-  "id": "jenkins",
-  "image": "jenkins/jenkins",
+  "id": "master",
   "cpu": 3,
   "memory": 4096,
   "volumes": {
